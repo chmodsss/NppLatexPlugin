@@ -1,5 +1,5 @@
-# NppLatexPlugin
-A hack to build latex files from Notepad++
+# NppLatexPlugin for Windows
+A hack to build latex files from Notepad++ in Windows
 
 * Clone this repo in a directory of your choice, we will be needing the folder `NppExec` and `miktex_to_latex.bat` file.
 * Install [MiKTeX](https://miktex.org/download). (MiKTeX is for building LaTeX files)
